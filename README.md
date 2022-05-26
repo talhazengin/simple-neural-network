@@ -5,3 +5,8 @@ https://medium.com/technology-invention-and-more/how-to-build-a-simple-neural-ne
 
 ### Dependencies
 1. numpy
+
+### Running
+1. Install python 3
+2. Run command from cli "pip install numpy"
+3. Run command from cli "python main.py"
